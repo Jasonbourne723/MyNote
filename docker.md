@@ -86,6 +86,9 @@ docker run -d --name containerName <repository>/<image_name>:tag
 # -P : 容器内部端口随机映射到主机的端口
 # -p : 容器内部端口绑定到指定的主机端口
 # -v : 将容器内部数据卷映射到主机数据卷
+# --cpus 2 限制容器可以使用的cpu核数
+# --cpuset-cpus "1,3" 限制容器运行在指定的cpu（1，3）核心上
+# --cpu-shares 1024 限制每个容器能使用的cpu时间比例，默认1024 
 ```
 重启容器
 ```
