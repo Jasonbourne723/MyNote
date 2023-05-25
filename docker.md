@@ -62,9 +62,9 @@ docker logs <container_id>
 运行容器
 ```
 docker run -d --name containerName <repository>/<image_name>:tag
-# -P : 是容器内部端口随机映射到主机的端口
-# -p : 是容器内部端口绑定到指定的主机端口
-# -v : 
+# -P : 容器内部端口随机映射到主机的端口
+# -p : 容器内部端口绑定到指定的主机端口
+# -v : 将容器内部数据卷映射到主机数据卷
 ```
 重启容器
 ```
@@ -84,6 +84,6 @@ docker export <container_id> res.tar
 ```
 导入容器
 ```
-docker loda
+cat docker/res.tar | docker import - test/ubuntu:v1
 ```
 
