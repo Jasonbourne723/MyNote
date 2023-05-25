@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "bf710d95658b252d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc637b299c3d568c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae3494bf6baff5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13744a32b08f3a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5ce45e28c995df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dff773c157ea1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bc277be5332464",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d3e57612829694c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b37e7b7d5bbab6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "551dfa3505414b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6305154c562a55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad9f05250e396b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-05-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3507eb64715cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-05-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1e12fa5c353691d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08d91933f55c5fda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-05-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f1bc277be5332464",
+  "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "docker.md",
+    "2023-05-24.md",
+    "docker",
+    "sdnfi.md"
+  ]
+}
