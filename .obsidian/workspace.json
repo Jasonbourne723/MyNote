@@ -11,28 +11,11 @@
             "id": "1ae3494bf6baff5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2023-05-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13744a32b08f3a84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2023-05-25.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "diary/2023-05-25.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13744a32b08f3a84",
+  "active": "1ae3494bf6baff5d",
   "lastOpenFiles": [
-    "docker.md",
-    "diary/2023-05-25.md",
+    "未命名.canvas",
     "diary/2023-05-24.md",
+    "diary/2023-05-25.md",
+    "docker.md",
     "diary",
     "未命名 1.canvas",
-    "未命名.canvas",
     "docker",
     "sdnfi.md"
   ]
