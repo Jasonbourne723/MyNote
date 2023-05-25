@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "docker.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -157,10 +157,10 @@
   },
   "active": "e360e18b0e20dea8",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "diary/2023-05-24.md",
     "diary/2023-05-25.md",
     "docker.md",
+    "未命名.canvas",
+    "diary/2023-05-24.md",
     "diary",
     "未命名 1.canvas",
     "docker",
