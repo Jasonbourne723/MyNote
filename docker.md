@@ -14,27 +14,27 @@ docker images
 ```
 删除镜像
 ```
-docker rmi imageId
+docker rmi <image_id>
 ```
 拉取镜像
 ```
-docker pull repository/imagename:tag
+docker pull <repository>/<image_name>:tag
 ```
 推送镜像
 ```
-docker push repository/imagename:tag
+docker push <repository>/<image_name>:tag
 ```
 更新镜像
 ```
-docker commit -m 'commit desc' -a 'author' containerId repository/imagename:tag
+docker commit -m 'commit desc' -a 'author' <container_id> <repository>/<image_name>:tag
 ```
 构建镜像
 ```
-docker build -t repository/imagename:tag .
+docker build -t <repository>/<image_name>:tag .
 ```
 设置镜像标签
 ```
-docker tag imageId repository/image:tag
+docker tag imageId <repository>/<image_name>:tag
 ```
 ### 容器
 查看容器列表
@@ -47,19 +47,43 @@ docker ps
 ```
 删除容器
 ```
-docker rm containerId
+docker rm <container_id>
 ```
 查看容器详细信息
 ```
-docker inspect containerId
+docker inspect <container_id>
 ```
 查看容器日志
 ```
-docker logs containerId
+docker logs <container_id>
+# 容器日志在主机中的路径
+# /var/lib/docker/containers/<container_id>/<container_id>-json.log
 ```
 运行容器
 ```
-docker run -d --name containerName repository/imageName:tag
+docker run -d --name containerName <repository>/<image_name>:tag
 # -P : 是容器内部端口随机映射到主机的端口
 # -p : 是容器内部端口绑定到指定的主机端口
+# -v : 
 ```
+重启容器
+```
+docker restart <container_id>
+```
+关闭容器
+```
+docker stop <container_id>
+```
+进入容器
+```
+docker exec -it <container_id> /bin/bash
+```
+导出容器
+```
+docker export <container_id> res.tar
+```
+导入容器
+```
+docker loda
+```
+
