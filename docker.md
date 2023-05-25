@@ -53,6 +53,10 @@ docker rm containerId
 ```
 docker inspect containerId
 ```
+查看容器日志
+```
+docker logs containerId
+```
 运行容器
 ```
 docker run -d --name containerName repository/imageName:tag
