@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "551dfa3505414b77",
@@ -149,9 +148,11 @@
   },
   "active": "fd6cdacdaf8762a4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "docker.md",
     "diary/2023-05-26.md",
+    "docker.md",
+    "~$Candito6周计划.xlsx",
+    "Candito6周计划.xlsx",
+    "conflict-files-obsidian-git.md",
     "Http.md",
     "Docker.md",
     "diary/2023-05-25.md",
