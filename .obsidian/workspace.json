@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "密码学.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,8 +185,10 @@
   },
   "active": "d6e4cb9871541a5f",
   "lastOpenFiles": [
-    "Http.md",
+    "Pasted image 20230526234252.png.md",
     "密码学.md",
+    "Http.md",
+    "Pasted image 20230526234252.png",
     "docker.md",
     "conflict-files-obsidian-git.md",
     "diary/2023-05-26.md",
