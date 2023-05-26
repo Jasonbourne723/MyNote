@@ -8,55 +8,39 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1ae3494bf6baff5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e360e18b0e20dea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2023-05-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fd6cdacdaf8762a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2920cf7049dfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ccd5ae89259bd12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6e4cb9871541a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "密码学.md",
+                "file": "docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "551dfa3505414b77",
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "密码学.md",
+                "file": "docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码学.md",
+                "file": "docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码学.md"
+                "file": "docker.md"
               }
             }
           }
@@ -183,17 +168,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6e4cb9871541a5f",
+  "active": "fd6cdacdaf8762a4",
   "lastOpenFiles": [
-    "Http.md",
     "密码学.md",
-    "docker.md",
-    "conflict-files-obsidian-git.md",
     "diary/2023-05-26.md",
-    "~$Candito6周计划.xlsx",
-    "Candito6周计划.xlsx",
-    "Docker.md",
+    "docker.md",
+    "Http.md",
     "diary/2023-05-25.md",
+    "Docker.md",
     "未命名.canvas",
     "diary/2023-05-24.md",
     "diary",
