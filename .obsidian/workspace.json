@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd6cdacdaf8762a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2920cf7049dfda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ccd5ae89259bd12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6e4cb9871541a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d82d07ddc2d719de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "计算机底层原理.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
