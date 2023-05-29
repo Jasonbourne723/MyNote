@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机底层原理.md",
-                "mode": "preview",
+                "file": "密码学.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "551dfa3505414b77",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机底层原理.md",
+                "file": "密码学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机底层原理.md",
+                "file": "密码学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机底层原理.md"
+                "file": "密码学.md"
               }
             }
           }
@@ -149,10 +148,11 @@
   },
   "active": "d82d07ddc2d719de",
   "lastOpenFiles": [
-    "Http.md",
-    "计算机底层原理.md",
-    "docker.md",
+    "未命名.canvas",
     "密码学.md",
+    "计算机底层原理.md",
+    "Http.md",
+    "docker.md",
     "Pasted image 20230526234252.png.md",
     "Pasted image 20230526234252.png",
     "conflict-files-obsidian-git.md",
@@ -161,7 +161,6 @@
     "Candito6周计划.xlsx",
     "Docker.md",
     "diary/2023-05-25.md",
-    "未命名.canvas",
     "diary/2023-05-24.md",
     "diary",
     "未命名 1.canvas",
